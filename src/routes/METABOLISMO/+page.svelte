@@ -121,6 +121,7 @@
 		Moderadamente Ativo: (MB * 1.55)<br>
 		Muito Ativo: (MB * 1.725)<br><br>
     Para formular a quantidade de calorias da sua dieta: <a class="nav-link" href="/Dieta">Clique aqui!</a >
+	Para escolher melhor a qualidade das calorias consumidas na sua dieta: <a class="nav-link" href="/Micronutrientes">Clique aqui!</a >
 </div></div>
 <style>
 	.pagina {
