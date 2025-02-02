@@ -16,7 +16,7 @@
             <div class="info-container bg-dark bg-opacity-75 p-4 rounded-3">
                 <h3 class="mb-3">Sobre o Site:</h3>
                 Muito bem! Aqui nesse site vou falar um pouco sobre dieta, nutrientes e metabolismo, espero que goste! <br>
-                O site foi feito utilizando alguns recursos e a base do site que já estavamos fazendo em sala de aula;
+                O site foi feito utilizando a base do site que já estavamos fazendo em sala de aula;
             </div>
         </div>
     </div>
