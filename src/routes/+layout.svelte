@@ -20,23 +20,15 @@
       <ul class="navbar-nav">
 
         <li class="nav-item">
-          <a class="nav-link" href="/Dieta">Dieta</a>
+          <a class="nav-link" href="/Dieta">Guia p/ Dieta</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="/temperatura">Temperatura</a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="/lista">Lista</a>
+          <a class="nav-link" href="/Micronutrientes">Micronutrientes e Alimentos Ricos</a>
         </li>
 
         <li class="nav-item">
           <a class="nav-link" href="/METABOLISMO">Calcule seu Gasto Calorico</a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="/supermarket">Supermarket</a>
         </li>
 
       </ul>
